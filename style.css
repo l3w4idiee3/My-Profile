@@ -8,11 +8,14 @@ body {
   background-color: #f2f2f2;
 }
 
-.container {
+.profile-container {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
+  background-image: url('profile-picture.jpg');
+  background-size: cover;
+  background-position: center;
   padding: 20px;
   box-sizing: border-box;
 }
