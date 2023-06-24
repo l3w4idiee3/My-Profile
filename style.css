@@ -1,27 +1,28 @@
+/* Reset some default browser styles */
 body, h1, h2, p, ul, li {
-    margin: 0%;
-    padding: 0%;
-}
-
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: #f5f6fa;
-}
-
-
-.container{
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+  }
+  
+  .container {
     width: 600px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #ffffff;
+    background-image: url('background-image.jpg');
+    background-size: cover;
+    background-position: center;
     border: 1px solid #ccc;
     border-radius: 5px;
-    box-shadow: 0 0 5px rgba(0, 0, 0 ,0.1);
-}
-.header{
-     text-align: center;
-     color:#3498db ;
-}
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Rest of the CSS code remains the same */
+  
 .profile {
     display: flex;
     align-items: center;
