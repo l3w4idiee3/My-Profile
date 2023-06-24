@@ -39,6 +39,9 @@ body {
 h1 {
   font-size: 24px;
   margin-bottom: 15px;
+  font-style: italic;
+  font-weight: bolder;
+  color: chartreuse;
 }
 
 .profile-bio h2,
@@ -49,4 +52,5 @@ h1 {
 ul {
   list-style: disc;
   margin-left: 20px;
+  color: darkgoldenrod;
 }
