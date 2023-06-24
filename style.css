@@ -56,3 +56,7 @@ p {
     font-weight: 24px;
     font-size: .9rem;
 }
+.profile-bio h2 {
+    font-family:'Roboto', sans-serif;
+    font-size:  1.2
+}
