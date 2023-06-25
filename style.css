@@ -55,13 +55,13 @@ ul {
   color: darkgoldenrod;
 }
 body {
-  background-image: url('images/image.jpg');
+  background-image: url('https://pbs.twimg.com/media/FvbyjQoX0AExR1o?format=jpg&name=4096x4096');
   background-size: cover;
   background-position: center;
-  opacity: 0.7;
+  opacity: 200px;
 }
 p {
   color: #000000;
-  font-size: 17px;
+  font-size: 19px;
   line-height: 1.5;
 }
