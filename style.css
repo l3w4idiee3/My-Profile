@@ -54,3 +54,9 @@ ul {
   margin-left: 20px;
   color: darkgoldenrod;
 }
+body {
+  background-image: url('images/image.jpg');
+  background-size: cover;
+  background-position: center;
+  opacity: 0.7;
+}
