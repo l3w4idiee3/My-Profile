@@ -47,6 +47,12 @@ body {
   display: flex;
   justify-content: center;
 }
+@media (max-width: 768px) {
+  .profile-pictures img {
+    width: 100px;
+    height: 100px;
+  }
+}
 
 
 h1 {
