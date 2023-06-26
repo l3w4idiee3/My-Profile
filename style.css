@@ -30,11 +30,17 @@ body {
 }
 
 .profile-pictures img {
-  border-radius: 50%;
   width: 150px;
   height: 150px;
-  margin-bottom: 10px;
+  object-fit:contain;
+  border-radius: 50%;
+  margin-right: 10px;
 }
+
+.profile-pictures img:last-child {
+  margin-right: 0;
+}
+
 
 h1 {
   font-size: 24px;
