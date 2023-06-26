@@ -43,6 +43,10 @@ body {
 .profile-pictures img:hover {
   border: 2px solid #333;
 }
+.profile-pictures {
+  display: flex;
+  justify-content: center;
+}
 
 
 h1 {
